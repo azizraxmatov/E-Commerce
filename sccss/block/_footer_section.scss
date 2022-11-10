@@ -3,6 +3,7 @@
     justify-content: center;
     margin-top: 100px;
     background-color: $greycolor-100;
+    position: relative;
 
     @media(max-width:$phone) {
         @include columncontent;
