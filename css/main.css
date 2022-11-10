@@ -254,6 +254,7 @@ body {
   display: flex;
   flex-direction: row;
   padding-top: 100px;
+  position: relative;
 }
 .imgtext_content_imgblock {
   background-image: url(../images/ellipse2.png);

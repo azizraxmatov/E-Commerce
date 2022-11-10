@@ -1,7 +1,7 @@
 .imgtext_content {
     @include maincontent;
     padding-top: 100px;
-
+    position: relative;
     &_imgblock {
         background-image: url(../images/ellipse2.png);
         width: 405px;
